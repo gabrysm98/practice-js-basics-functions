@@ -1,4 +1,4 @@
-const sayHello = function(message){
+function sayHello(message){
     console.log("Cześć " + message);
 }
 
